@@ -1,0 +1,283 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"passr",
+				"password"
+			],
+			[
+				"date",
+				"dateofbirth"
+			],
+			[
+				"last",
+				"lastname"
+			],
+			[
+				"password",
+				"password"
+			],
+			[
+				"da",
+				"dateofbirth"
+			],
+			[
+				"cond",
+				"condition"
+			],
+			[
+				"blood",
+				"blood"
+			],
+			[
+				"cond1",
+				"cond1"
+			],
+			[
+				"condi",
+				"condition1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/seanp/Desktop/Websites/SignRight - Copy/assets/css/main.css",
+		"/C/Users/seanp/Desktop/Websites/2103_central/index.html",
+		"/C/Users/seanp/Desktop/Websites/2103_central/css/tooplate-style.css",
+		"/C/Users/seanp/Desktop/Websites/2103_central/css/bootstrap.min.css",
+		"/C/Users/seanp/Desktop/Websites/2103_central/contact.html",
+		"/C/Users/seanp/Desktop/Websites/2103_central/info.html",
+		"/C/Users/seanp/Desktop/Websites/JDVwebsite/aboutjdv.html",
+		"/C/Users/seanp/Desktop/Websites/SignRight/aboutjdv.html",
+		"/C/Users/seanp/Desktop/JDVwebsite/aboutjdv.html",
+		"/C/Users/seanp/Desktop/JDVwebsite/contactjdv.html",
+		"/C/Users/seanp/Desktop/JDVwebsite/membership.html",
+		"/C/Users/seanp/Desktop/JDVwebsite/home.html",
+		"/C/xampp/htdocs/tuts/my_account.php",
+		"/C/xampp/htdocs/tuts/config/Database.php",
+		"/C/xampp/htdocs/tuts/index.php",
+		"/C/xampp/htdocs/tuts/patient.php",
+		"/C/xampp/htdocs/tuts/register.php",
+		"/C/xampp/htdocs/tuts/member.php",
+		"/C/xampp/htdocs/tuts/helper.php",
+		"/C/xampp/htdocs/tuts/edit.php",
+		"/C/xampp/htdocs/tuts/checkLogin.php",
+		"/C/Users/seanp/Desktop/rickshaw4iot-0.2.2/manifest.yml",
+		"/C/xampp/htdocs/tuts/config/config.php",
+		"/C/xampp/htdocs/tuts/login.php",
+		"/C/xampp/htdocs/tuts/logged_out.php",
+		"/C/xampp/htdocs/tuts/notLogin.php",
+		"/C/xampp/htdocs/tuts/qr.php",
+		"/C/Users/seanp/Desktop/beer_cider.html",
+		"/C/Users/seanp/Downloads/Microsoft.SkypeApp_kzf8qxf38zg5c!App/All/my_account (2).php",
+		"/C/Users/seanp/Downloads/Microsoft.SkypeApp_kzf8qxf38zg5c!App/All/my_account.php",
+		"/C/xampp/htdocs/tuts/new_member.php",
+		"/C/Users/seanp/Downloads/Microsoft.SkypeApp_kzf8qxf38zg5c!App/All/Database.php",
+		"/C/Users/seanp/Downloads/Microsoft.SkypeApp_kzf8qxf38zg5c!App/All/edit (3).php",
+		"/C/Users/seanp/Desktop/`copies/config/Database.php",
+		"/C/Users/seanp/Desktop/`copies/index.php",
+		"/C/Users/seanp/Desktop/`copies/about.php",
+		"/C/Users/seanp/AppData/Local/Temp/Rar$DIa0.367/about.php",
+		"/C/Users/seanp/AppData/Local/Temp/Rar$DIa0.866/about.php",
+		"/C/Users/seanp/AppData/Local/Temp/Rar$DIa0.611/about.php",
+		"/C/Users/seanp/Desktop/`copies/config/config.php",
+		"/C/xampp/htdocs/tuts/tuts/config/config.php",
+		"/C/xampp/htdocs/tuts/tuts/config/Database.php",
+		"/C/xampp/htdocs/tuts/about.php",
+		"/C/Users/seanp/Downloads/Microsoft.SkypeApp_kzf8qxf38zg5c!App/All/edit (2).php",
+		"/C/Users/seanp/Downloads/Microsoft.SkypeApp_kzf8qxf38zg5c!App/All/edit.php",
+		"/C/xampp/htdocs/tuts/edit - Copy.php",
+		"/C/Users/seanp/Desktop/tuts/member.php",
+		"/C/Users/seanp/AppData/Local/Temp/Rar$DIa0.979/my_account.php",
+		"/C/Users/seanp/AppData/Local/Temp/Rar$DIa0.773/checkLogin.php",
+		"/C/Users/seanp/AppData/Local/Temp/Rar$DIa0.857/register.php",
+		"/C/Users/seanp/AppData/Local/Temp/Rar$DIa0.145/notLogin.php",
+		"/C/Users/seanp/AppData/Local/Temp/Rar$DIa0.365/config.php",
+		"/C/Users/seanp/AppData/Local/Temp/Rar$DIa0.394/Database.php",
+		"/C/Users/seanp/Desktop/edit.php",
+		"/C/Users/seanp/Desktop/tuts/edit.php",
+		"/C/xampp/htdocs/tuts1/edit.php",
+		"/C/xampp/htdocs/tutsCRAp/edit-profile.php",
+		"/C/xampp/htdocs/tuts5/edit.php",
+		"/C/xampp/htdocs/tuts5/register.php",
+		"/C/xampp/htdocs/tuts5/my_account.php",
+		"/C/xampp/htdocs/tuts/logout.php",
+		"/C/xampp/htdocs/tuts/conn.php",
+		"/C/xampp/htdocs/tuts/session.php",
+		"/C/xampp/htdocs/tuts - Copy (3)/login.php",
+		"/C/xampp/htdocs/tuts/signup_nextpage.php",
+		"/C/xampp/htdocs/tuts - Copy (2)/register.php",
+		"/C/Users/seanp/Downloads/index.php",
+		"/C/xampp/htdocs/tuts/update-profile-action.php",
+		"/C/xampp/htdocs/tuts/edit-profile.php",
+		"/C/xampp/htdocs/tuts/profile.php",
+		"/C/xampp/htdocs/tuts/login-action.php",
+		"/C/xampp/htdocs/tuts/register-action.php",
+		"/C/xampp/htdocs/tuts/registration.php",
+		"/C/xampp/htdocs/tuts/connection.php",
+		"/C/xampp/htdocs/tuts - Copy/register.php",
+		"/C/xampp/htdocs/tuts - Copy/login.php",
+		"/C/xampp/htdocs/tuts/css/bootstrap.min.css",
+		"/C/xampp/htdocs/tuts/order.php",
+		"/C/Users/seanp/Desktop/CA357/about.php",
+		"/C/xampp/htdocs/tuts/index.html",
+		"/C/xampp/htdocs/tuts/index1.php",
+		"/C/xampp/htdocs/tuts/my_account.php.html",
+		"/C/xampp/htdocs/tuts/my_account,php.html"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "elements.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
